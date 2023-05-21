@@ -1,0 +1,7 @@
+.fondo{
+    background: url(../assets/fondoBoca.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
