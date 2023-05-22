@@ -5,3 +5,12 @@
     background-size: cover;
     background-attachment: fixed;
 }
+.imagenEscudo{
+    width: 80px;
+}
+.bg-amarillo{
+    background-color: #ffd029;
+}
+.bg-azul{
+    background-color: #004aad;
+}
