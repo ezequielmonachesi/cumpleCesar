@@ -14,3 +14,11 @@
 .bg-azul{
     background-color: #004aad;
 }
+.btn-azul{
+    background-color: #004aad;
+    color: white;
+}
+.btn-azul:focus{
+    background-color: #004aad;
+    color: white;
+}
